@@ -1633,8 +1633,7 @@ var CRYSTAL_WARPS =
     "C,11,1,0" : {
         "name": "GOLDENROD CITY - INSIDE - PkCenter Back Room - 7,8",
         "to" : "C,11,2,1",
-        "level": "3",
-        "tags": ["removeable"]
+        "level": "3"
     },
     "C,8,0,0" : {
         "name": "GOLDENROD CITY - INSIDE - Left Bottom - 4,8",
