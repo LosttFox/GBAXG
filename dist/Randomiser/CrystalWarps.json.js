@@ -1638,8 +1638,7 @@ var CRYSTAL_WARPS =
     "C,8,0,0" : {
         "name": "GOLDENROD CITY - INSIDE - Left Bottom - 4,8",
         "to" : "C,0,3,1",
-        "level": "3",
-        "tags": ["removeable"]
+        "level": "3"
     },
 // Underground F1
     "C,11,9,1" : {
