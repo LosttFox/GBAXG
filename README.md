@@ -1,8 +1,11 @@
 # GBAXG
 
+[!NOTE]
+This is a patch to give the ability to obtain Magby. It removes `"removeable"` tag from two locations.
+
 Welcome to the GBA Cross-Game Pokemon Map Randomiser. This emulator mod loads and modifies Fire Red, Emerald and Crystal Dust ROMS so you can simultaneously play across Kanto, Johto and Hoenn. Memory is dynamically altered so you can keep your team, items, money and trainer data when moving between games/reigons.
 
-A major new release is now (August 2023) available with a complete change of the emulation core to use skyemu. [Go To The Emulator](https://kittypboxx.github.io/GBAXG/skycore/build/bin/) . 
+A major new release is now (August 2023) available with a complete change of the emulation core to use skyemu. [Go To The Emulator](https://losttfox.github.io/GBAXG/skycore/build/bin/) . 
 
 
 The older version can still be played [here](https://kittypboxx.github.io/GBAXG/build) but will no longer be updated.
