@@ -1,7 +1,7 @@
 # GBAXG
 
-[!NOTE]
-This is a patch to give the ability to obtain Magby. It removes `"removeable"` tag from two locations.
+> [!NOTE]
+> This is a patch to give the ability to obtain Magby. It removes `"removeable"` tag from two locations.
 
 Welcome to the GBA Cross-Game Pokemon Map Randomiser. This emulator mod loads and modifies Fire Red, Emerald and Crystal Dust ROMS so you can simultaneously play across Kanto, Johto and Hoenn. Memory is dynamically altered so you can keep your team, items, money and trainer data when moving between games/reigons.
 
